@@ -1,0 +1,1 @@
+function(obj, parse){ return parse(obj); }
